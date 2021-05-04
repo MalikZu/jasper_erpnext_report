@@ -1,1 +1,1 @@
-git+https://github.com/kivy/pyjnius.git
+git+https://github.com/faztp12/pyjnius.git@jasper_erpnext_report
